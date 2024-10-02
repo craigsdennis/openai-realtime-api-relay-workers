@@ -1,6 +1,6 @@
 # OpenAI Realtime Worker
 
-This is an implementation of an [OpenAI Relay Server](https://github.com) using [Cloudflare Workers](https://developers.cloudflare.com/workers) and the delightful [Hono](https://honojs.dev) framework.
+This is an implementation of an [OpenAI Relay Server](https://github.com/openai/openai-realtime-console/tree/main/relay-server) using [Cloudflare Workers](https://developers.cloudflare.com/workers) and the delightful [Hono](https://honojs.dev) framework.
 
 ## Install
 
